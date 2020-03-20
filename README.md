@@ -19,7 +19,7 @@ Ready for this? Let's go!
 ## Last news
 
 ### Kick Off
-#### Vous trouverez dans la section Important Links la [vidéo Kick Off](https://drive.google.com/file/d/1LmoSIkhlay_ktFNQskvP7VYCWyOl2uxP/view?usp=sharing) présentant le projet innovation ainsi que les [slides](https://drive.google.com/file/d/1vTKJM-Yk-lwfZ3GTnk2v2_s1HQsh-Vix/view?usp=sharing).
+#### Vous trouverez dans la section Important Links la [vidéo Kick Off](https://drive.google.com/file/d/1LmoSIkhlay_ktFNQskvP7VYCWyOl2uxP/view?usp=sharing) présentant le projet innovation ainsi que les [slides](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf).
 
 ### PHASE D'IDEATION !
 Nous sommes dans la phase d'idéation. Vous pouvez d'ores déjà proposer vos idées dans le channel slack **si4-pns-innov**. Utilisez ce channel pour échanger sur les idées proposées et pour les faire évoluer !
@@ -47,7 +47,7 @@ Nous aurons la session de design thinking pour trouver de nouvelles idées le **
 ## Important Links
 
 - [Vidéo du kick-off](https://drive.google.com/file/d/1LmoSIkhlay_ktFNQskvP7VYCWyOl2uxP/view?usp=sharing)
-- [Slides du kick off](https://drive.google.com/file/d/1vTKJM-Yk-lwfZ3GTnk2v2_s1HQsh-Vix/view?usp=sharing)
+- [Slides du kick off](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf)
 
 #### Vous retrouverez dans les slides du kick-off
 - Les vidéos de démo finales des années précédentes
