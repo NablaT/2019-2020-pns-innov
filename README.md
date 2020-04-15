@@ -18,23 +18,36 @@ Ready for this? Let's go!
 
 ## Last news
 
-### PHASE D'IDEATION !
+### PHASE DE PRESENTATION !
 
-Nous aurons la session Cover story le **9 Avril**. Vous devez avoir trouvé votre idée, constitué les groupes et **les enregistrer pour 8 Avril à 22h**. Pour enregistrer vos groupes, il vous suffit de mettre à jour [l'excel partagé](https://docs.google.com/spreadsheets/d/1k0yHuEI7cekfJQBjoINvs_KQaT4x1IxYU1j7VoT62IU/edit?usp=sharing) en y ajoutant:
-- Le nom de votre idée
-- Les membres de votre groupe (4 personnes)
-- Une ligne pour décrire votre idée
+Au vu de la situation actuelle, nous avons décidé d'annuler la session de pitch "Live" prévue initialement le 30 Avril. Nous gardons néamoins le slot dans l'agenda. Pour remplacer cette présentation, nous avons ajouté un rendu le 2 Mai à 20h contenant une vidéo de **3 minutes** avec le pitch de votre idée. 
 
+Avant de passer aux modalités du rendu, un petit rappel : l'objectif du pitch est de trouver son sponsor ! Le sponsor sera un enseignant qui sera là pour vous aider pendant votre projet. Il aura un budget horaire de 4h pour vous coacher. Le pitch est un bon moyen de mettre en avant votre idée et de le trouver. 
 
-Nous vous avons préparé **[quelques slides](https://drive.google.com/file/d/1TsrbZf7Mp-Ul25I3HE-90SIa1ax7Beod/view?usp=sharing)** pour vous aider à travailler vos idées avec un récapitulatif des questions qu'il faut se poser.
+#### Rendu du 2 Mai à 20h
+#### Le pitch
 
+- Vidéo de **3 minutes** 
+- Avec une ou plusieurs voix enregistrées qui pitchent votre idée
+- Avec une slide sans animation illustrant votre pitch
+- Si vous avez besoin d'un sponsor avec un profil particulier, vous pouvez l'annoncer à la fin de votre vidéo (ex: besoins en IA, IHM etc...)
+
+Attention c'est 3 minutes, contrairement à ce qu'on avait annoncé dans les slides de kick off !
+Pensez également à regarder les pitchs de l'année dernière pour vous inspirer (cf [slides du kick off](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf))
+
+#### Le rendu
+Vous enverrez un email pour le **2 Mai à 20h** avec:
+- Le lien vers votre vidéo : **Vidéo devra faire moins de 200Mb**. Ne mettez pas votre vidéo sur Youtube directement.
+- La description du projet en une dizaine de ligne (cf [slides du kick off pour exemple](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf))
+- Sujet de l'email : **PS8 Vidéo Pitch: Groupe NOM_DE_VOTRE_GROUPE**
+- Destinataires : philippe.collet@univ-cotedazur.fr & remi.pourtier@gmail.com
 
 ## Planning
 
 - 26 Mars : Design thinking session [Online]
 - 8 Avril : Trouvez votre idée et votre équipe [Online] 
 - 9 Avril : Atelier cover story (à confirmer) [Online]
-- 30 Avril : Présentez votre idée avec un Pitch d'une minute ! [Online certainement]
+- 2 Mai 20h : Envoi des vidéos des pitchs 
 - 11 et 12 Mai & 14 et 15 Mai : Kick off projet et atelier mariage. Ces activités sont réparties sur 2 jours. Une première partie de la promo passera le 11-12 et l'autre le 14-15 Mai.
 - 20 Mai : Départ du projet !
 - 20 Mai - 12 Juin : 3 Sprints pour délivrer votre idée
@@ -42,11 +55,7 @@ Nous vous avons préparé **[quelques slides](https://drive.google.com/file/d/1T
 
 ## Deadlines:
 - 8 Avril : Trouvez votre idée et votre équipe.
-- 29 Avril : Décrivez votre sujet:
-          - Quelques lignes de description dans le tableur des équipes (coming soon...)
-          - Un texte de présentation (cf slides kick off pour exemple)
-          - Une slide à passer pendant votre pitch
-- 30 Avril : PITCH d'une minute de votre idée !
+- 2 Mai 20h : Envoi des vidéos des pitchs 
 
 ## Important Links
 
