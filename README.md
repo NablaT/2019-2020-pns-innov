@@ -36,26 +36,30 @@ Attention c'est 3 minutes, contrairement à ce qu'on avait annoncé dans les sli
 Pensez également à regarder les pitchs de l'année dernière pour vous inspirer (cf [slides du kick off](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf))
 
 #### Le rendu
-Vous enverrez un email pour le **2 Mai à 20h** avec:
-- Le lien vers votre vidéo : **Vidéo devra faire moins de 200Mb**. Ne mettez pas votre vidéo sur Youtube directement.
-- La description du projet en une dizaine de ligne (cf [slides du kick off pour exemple](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf))
-- Sujet de l'email : **PS8 Vidéo Pitch: Groupe NOM_DE_VOTRE_GROUPE**
-- Destinataires : philippe.collet@univ-cotedazur.fr & remi.pourtier@gmail.com
+
+**update: Plus d'email, on passe par Moodle : https://lms.univ-cotedazur.fr/course/view.php?id=4264
+Le moodle du cours contient une section par livrable. Les équipes sont formées pour vous permettre de faire une livraison par équipe lorsque c'est nécessaire.**
+
+Pour le **2 Mai à 20h** :
+- Remplir l'autorisation de diffusion pour chacun, qui permettra la diffusion des vidéos de pitch et finales (livraison individuelle)
+- Livrer la vidéo de pitch et le texte (livraison par équipe)
+  - Uploader la vidéo si elle fait moins de 50Mo. Sinon, donner le lien vers votre vidéo (**de moins de 200Mo). Ne mettez pas votre vidéo sur Youtube directement.**
+  - Saisir la description du projet en une dizaine de lignes (cf [slides du kick off pour exemple](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf))
 
 ## Planning
 
 - 26 Mars : Design thinking session [Online]
 - 8 Avril : Trouvez votre idée et votre équipe [Online] 
-- 9 Avril : Atelier cover story (à confirmer) [Online]
+- 9 Avril : Atelier cover story [Online]
 - 2 Mai 20h : Envoi des vidéos des pitchs 
-- 11 et 12 Mai & 14 et 15 Mai : Kick off projet et atelier mariage. Ces activités sont réparties sur 2 jours. Une première partie de la promo passera le 11-12 et l'autre le 14-15 Mai.
+- 11 et 12 Mai & 14 et 15 Mai : Kick off projet et aide au démarrage (user stories, périmètre fonctionnel). Ces activités sont réparties sur 2 jours. Une première partie de la promo passera le 11-12 et l'autre le 14-15 Mai.
 - 20 Mai : Départ du projet !
 - 20 Mai - 12 Juin : 3 Sprints pour délivrer votre idée
 - 12 Juin : Soutenances finales: Présentation du résultat.
 
 ## Deadlines:
 - 8 Avril : Trouvez votre idée et votre équipe.
-- 2 Mai 20h : Envoi des vidéos des pitchs 
+- 2 Mai 20h : Envoi des vidéos des pitchs et texte de description du projet
 
 ## Important Links
 
