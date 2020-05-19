@@ -18,39 +18,29 @@ Ready for this? Let's go!
 
 ## Last news
 
-### PHASE DE PRESENTATION !
+### Sprint 1
 
-Au vu de la situation actuelle, nous avons décidé d'annuler la session de pitch "Live" prévue initialement le 30 Avril. Nous gardons néamoins le slot dans l'agenda. Pour remplacer cette présentation, nous avons ajouté un rendu le 2 Mai à 20h contenant une vidéo de **3 minutes** avec le pitch de votre idée. 
+Vous pouvez trouver dans le git les assets utilisées pendant la semaine de kick off.
 
-Avant de passer aux modalités du rendu, un petit rappel : l'objectif du pitch est de trouver son sponsor ! Le sponsor sera un enseignant qui sera là pour vous aider pendant votre projet. Il aura un budget horaire de 4h pour vous coacher. Le pitch est un bon moyen de mettre en avant votre idée et de le trouver. 
+Recap des objectifs avant le début du sprint 1 :
+- Les US de votre Sprint 1 sont écrites (en suivant le template qu’on a vu) et sizées en points dans github (avec tous les bons labels).
+- Les risques sont push sur votre github
+- Les définition of done et definition of ready sont aussi sur votre github
+- Votre milestone Sprint 1 et votre Kanban sont créés sur votre repository
 
-#### Rendu du 2 Mai à 20h
-#### Le pitch
+Pensez aussi à contacter votre sponsor pour organiser un premier échange avant le début du Sprint. Si vous avez des problèmes pour le contacter, n’hésitez pas à revenir vers nous.
 
-- Vidéo de **3 minutes** 
-- Avec une ou plusieurs voix enregistrées qui pitchent votre idée
-- Avec une slide sans animation illustrant votre pitch
-- Si vous avez besoin d'un sponsor avec un profil particulier, vous pouvez l'annoncer à la fin de votre vidéo (ex: besoins en IA, IHM etc...)
+#### Coaching & Stand-Up
 
-Attention c'est 3 minutes, contrairement à ce qu'on avait annoncé dans les slides de kick off !
-Pensez également à regarder les pitchs de l'année dernière pour vous inspirer (cf [slides du kick off](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf))
-
-#### Le rendu
-
-**update: Plus d'email, on passe par Moodle : https://lms.univ-cotedazur.fr/course/view.php?id=4264
-Le moodle du cours contient une section par livrable. Les équipes sont formées pour vous permettre de faire une livraison par équipe lorsque c'est nécessaire.**
-
-Pour le **2 Mai à 20h** :
-- Remplir l'autorisation de diffusion pour chacun, qui permettra la diffusion des vidéos de pitch et finales (livraison individuelle)
-- Livrer la vidéo de pitch et le texte (livraison par équipe)
-  - Uploader la vidéo si elle fait moins de 50Mo. Sinon, donner le lien vers votre vidéo (**de moins de 200Mo). Ne mettez pas votre vidéo sur Youtube directement.**
-  - Saisir la description du projet en une dizaine de lignes (cf [slides du kick off pour exemple](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf))
+Vous trouverez dans [cet excel](https://docs.google.com/spreadsheets/d/1mtOcYzvov8JCgdYVRQlcbJMVEZzWbkwzKolCiRbzWQk/edit?usp=sharing) les informations suivantes :
+- Votre groupe pour les stand-ups: A ou B. Les stand-ups commencent à 8h30 sur discord et vous trouverez deux salons : `daily-a` & `daily-b`
+- Vos horaires pour les coachings. Il y aura 2 séances de coaching par sprint, `coaching 1` correspond aux horaires du premier coaching du sprint, `coaching 2` pour le second.
 
 ## Planning
 
-- 26 Mars : Design thinking session [Online]
-- 8 Avril : Trouvez votre idée et votre équipe [Online] 
-- 9 Avril : Atelier cover story [Online]
+- 26 Mars : Design thinking sessio
+- 8 Avril : Trouvez votre idée et votre équipe 
+- 9 Avril : Atelier cover story 
 - 2 Mai 20h : Envoi des vidéos des pitchs 
 - 11 et 12 Mai & 14 et 15 Mai : Kick off projet et aide au démarrage (user stories, périmètre fonctionnel). Ces activités sont réparties sur 2 jours. Une première partie de la promo passera le 11-12 et l'autre le 14-15 Mai.
 - 20 Mai : Départ du projet !
@@ -63,16 +53,23 @@ Pour le **2 Mai à 20h** :
 
 ## Important Links
 
-- [Vidéo du kick-off](https://drive.google.com/file/d/1LmoSIkhlay_ktFNQskvP7VYCWyOl2uxP/view?usp=sharing)
-- [Slides du kick off](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf)
-- [Slides pour vous aider à travailler vos idées](https://drive.google.com/file/d/1TsrbZf7Mp-Ul25I3HE-90SIa1ax7Beod/view?usp=sharing)
-- [Excel pour enregistrer les groupes](https://docs.google.com/spreadsheets/d/1k0yHuEI7cekfJQBjoINvs_KQaT4x1IxYU1j7VoT62IU/edit?usp=sharing)
+Sprints:
+- [Stand-Ups & Coaching](https://docs.google.com/spreadsheets/d/1mtOcYzvov8JCgdYVRQlcbJMVEZzWbkwzKolCiRbzWQk/edit?usp=sharing)
+
+Semaine de kick-off:
+- Les 3 présentations se trouvent dans le git: `4_week_kick_off_day_1_part_1.pdf`,  `4_week_kick_off_day_1_part_2.pdf`,  `4_week_kick_off_day_2.pdf`
+- [Story Mapping & Planning - Excel avec les templates Cacoo](https://docs.google.com/spreadsheets/d/1HRfl5a8cp-NDD28DY4r6KEeda2KTetZUKRdoidIvuQM/edit?usp=sharing)
 
 Design thinking:
 - [Slides de presentation de la session](https://drive.google.com/file/d/1jZ7I44SQjWNxhmn-Bza2DPicDtlx6OBL/view?usp=sharing)
 - [Spreadsheet avec les groupes](https://docs.google.com/spreadsheets/d/1QzqVFrKQn00JAwtF0OJ3xjNNLoyHbiJweeTTcaqxgGw/edit?usp=sharing)
 - [Template Cacoo (veuillez à copier/coller le contenu dans un nouveau projet)](https://cacoo.com/diagrams/oNj5Bz0UQLbA9C0E/B0750)
   
+Kick off Avril:
+- [Vidéo du kick-off](https://drive.google.com/file/d/1LmoSIkhlay_ktFNQskvP7VYCWyOl2uxP/view?usp=sharing)
+- [Slides du kick off](https://github.com/NablaT/2019-2020-pns-innov/blob/master/1_kick_off-1920.pdf)
+- [Slides pour vous aider à travailler vos idées](https://drive.google.com/file/d/1TsrbZf7Mp-Ul25I3HE-90SIa1ax7Beod/view?usp=sharing)
+
 #### Vous retrouverez dans les slides du kick-off
 - Les vidéos de démo finales des années précédentes
 - Des exemples de texte de présentation 
