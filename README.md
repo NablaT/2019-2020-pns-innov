@@ -18,17 +18,9 @@ Ready for this? Let's go!
 
 ## Last news
 
-### Sprint 1
+### Démo
 
-Vous pouvez trouver dans le git les assets utilisées pendant la semaine de kick off.
-
-Recap des objectifs avant le début du sprint 1 :
-- Les US de votre Sprint 1 sont écrites (en suivant le template qu’on a vu) et sizées en points dans github (avec tous les bons labels).
-- Les risques sont push sur votre github
-- Les définition of done et definition of ready sont aussi sur votre github
-- Votre milestone Sprint 1 et votre Kanban sont créés sur votre repository
-
-Pensez aussi à contacter votre sponsor pour organiser un premier échange avant le début du Sprint. Si vous avez des problèmes pour le contacter, n’hésitez pas à revenir vers nous.
+Les horaires et modalités pour la démo du Vendredi 29/05 se trouvent dans [ce spreadsheet](https://docs.google.com/spreadsheets/d/1-S8EsEkWvnmgrR0T12X_sDIueqrx5Q_kyAK8Lt42Mus/edit?usp=sharing).
 
 #### Coaching & Stand-Up
 
@@ -54,6 +46,7 @@ Vous trouverez dans [cet excel](https://docs.google.com/spreadsheets/d/1mtOcYzvo
 ## Important Links
 
 Sprints:
+- [Planning Demo et modalités](https://docs.google.com/spreadsheets/d/1-S8EsEkWvnmgrR0T12X_sDIueqrx5Q_kyAK8Lt42Mus/edit?usp=sharing)
 - [Stand-Ups & Coaching](https://docs.google.com/spreadsheets/d/1mtOcYzvov8JCgdYVRQlcbJMVEZzWbkwzKolCiRbzWQk/edit?usp=sharing)
 
 Semaine de kick-off:
