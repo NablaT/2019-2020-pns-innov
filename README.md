@@ -18,15 +18,12 @@ Ready for this? Let's go!
 
 ## Last news
 
-### Démo
+### Dernière ligne droite !
 
-Les horaires et modalités pour la démo du Vendredi 29/05 se trouvent dans [ce spreadsheet](https://docs.google.com/spreadsheets/d/1-S8EsEkWvnmgrR0T12X_sDIueqrx5Q_kyAK8Lt42Mus/edit?usp=sharing).
+Nous voilà au sprint 3 et donc bientôt à la fin du projet ! :( 
+Un petit rappel des rendus de cette semaine se trouve [dans ces slides](https://drive.google.com/file/d/1O2y1wU8xvpPVXZpPdzssyfLTA0ssEs08/view?usp=sharing). 
+Vous trouverez également, le planning des soutenances du Vendredi 12 Juin [dans ce spreadsheet](https://docs.google.com/spreadsheets/d/1AB4AVTCtd_M8IKpdqdyDBaece-PBZ_iyYwnsMgtTDaU/edit?usp=sharing).
 
-#### Coaching & Stand-Up
-
-Vous trouverez dans [cet excel](https://docs.google.com/spreadsheets/d/1mtOcYzvov8JCgdYVRQlcbJMVEZzWbkwzKolCiRbzWQk/edit?usp=sharing) les informations suivantes :
-- Votre groupe pour les stand-ups: A ou B. Les stand-ups commencent à 8h30 sur discord et vous trouverez deux salons : `daily-a` & `daily-b`
-- Vos horaires pour les coachings. Il y aura 2 séances de coaching par sprint, `coaching 1` correspond aux horaires du premier coaching du sprint, `coaching 2` pour le second.
 
 ## Planning
 
@@ -38,16 +35,18 @@ Vous trouverez dans [cet excel](https://docs.google.com/spreadsheets/d/1mtOcYzvo
 - 20 Mai : Départ du projet !
 - 20 Mai - 12 Juin : 3 Sprints pour délivrer votre idée
 - 12 Juin : Soutenances finales: Présentation du résultat.
-
-## Deadlines:
-- 8 Avril : Trouvez votre idée et votre équipe.
-- 2 Mai 20h : Envoi des vidéos des pitchs et texte de description du projet
+- 14 Juin à 19h : Rendu Rapport + Vidéo 3 min + Backlog prêt pour la suite (Sprint 4 + Backlog).
 
 ## Important Links
 
+Modalités rendus finaux:
+- [Les slides avec les modalités](https://drive.google.com/file/d/1O2y1wU8xvpPVXZpPdzssyfLTA0ssEs08/view) 
+- [Le planning des soutenances du Vendredi 12 Juin](https://docs.google.com/spreadsheets/d/1AB4AVTCtd_M8IKpdqdyDBaece-PBZ_iyYwnsMgtTDaU/edit?usp=sharing) 
+
 Sprints:
+- [Stand-Ups & Coaching + Retrospectives + Lean Canvas](https://docs.google.com/spreadsheets/d/1mtOcYzvov8JCgdYVRQlcbJMVEZzWbkwzKolCiRbzWQk/edit?usp=sharing)
 - [Planning Demo et modalités](https://docs.google.com/spreadsheets/d/1-S8EsEkWvnmgrR0T12X_sDIueqrx5Q_kyAK8Lt42Mus/edit?usp=sharing)
-- [Stand-Ups & Coaching](https://docs.google.com/spreadsheets/d/1mtOcYzvov8JCgdYVRQlcbJMVEZzWbkwzKolCiRbzWQk/edit?usp=sharing)
+- [Démarche scientifique & Positionnement](https://unice-my.sharepoint.com/:f:/g/personal/helene_collavizza_unice_fr/Eo6Yw_q3PuhChhxxg7IXrQsBV69sHELAL6R11lhSoayUAg?e=t9W9hK)
 
 Semaine de kick-off:
 - Les 3 présentations se trouvent dans le git: `4_week_kick_off_day_1_part_1.pdf`,  `4_week_kick_off_day_1_part_2.pdf`,  `4_week_kick_off_day_2.pdf`
